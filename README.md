@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomasBecerro
-- 👀 I’m interested in Swift and SeiftUI
+- 👀 I’m interested in Swift and SwiftUI
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
